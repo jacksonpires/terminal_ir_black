@@ -4,7 +4,7 @@ This file contains the theme used by me on terminal of the MacOSx.
 
 File: **IR_Black.terminal**
 
-![preferences][preferences.png]
+![preferences](https://github.com/jacksonpires/terminal_ir_black/blob/master/preferences.png "preferences")
 
-![terminal][terminal]
+![terminal](https://github.com/jacksonpires/terminal_ir_black/blob/master/terminal.png "terminal")
 
